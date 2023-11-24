@@ -1,10 +1,5 @@
-# **Machine Learning Engineer**
-
 * **
-
-## **Projects**
-
-### **Machine Learning** 
+## **Machine Learning Projects** 
 
 - **Business License Status Prediction** | [GitHub](https://github.com/avr2002/Business-License-Status-Prediction)
   - **Technologies Used: Python, scikit-learn, h2o, tensorflow, flask, gunicorn**
@@ -12,7 +7,7 @@
  
 * **
 
-### **NLP Projects**
+## **NLP Projects**
 - **Topic Modeling Using RACE Dataset** | [GitHub](https://github.com/avr2002/Topic-Modelling-Using-RACE-Dataset)
   - **Technologies Used:**  Python, Regex, NLTK, Gensim, ScikitLearn, tSNE, pyLDAvis, bokeh, Git
   - This **NLP Project** aims to use statistical models to reveal the abstract “topics” present in a large set of text documents, thus trying to classify documents based on different themes they convey.
@@ -26,7 +21,7 @@
 
 * **
 
-### **Computer Vision Projects**
+## **Computer Vision Projects**
 - **Image Coloring using Autoencoders** | [Github](https://github.com/avr2002/Image-Coloring-using-Autoencoders)
     - **Technologies Used: Python, TensorFlow, Keras, scikit-image, matplotlib, numpy**
     -  I tried using Autoencoders and Transfer Learning for this one. I tried VGG16 and InceptionResNetV2 as an encoder/feature extractor layer and a custom decoder layer.
@@ -40,7 +35,7 @@
 
 * **
 
-### **Python Projects** 
+## **Python Projects** 
 
 - **Business License Status Prediction** | [GitHub](https://github.com/avr2002/Business-License-Status-Prediction)
   - **Technologies Used: Python, scikit-learn, h2o, tensorflow, flask, gunicorn**
