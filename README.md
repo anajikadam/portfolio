@@ -1,29 +1,16 @@
 # **Machine Learning Engineer**
 
-#### [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/anajikadam) | gmail.com | [***Download My Resume***](https://drive.google.com/)
-
-## **Skills**
-- **Programming Skills: Python, SQL, LaTex**
-- **Technical Skills:**
-    - ***TensorFlow, Keras, Scikit-Learn, Gensim, NLTK, Pytesseract, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, Regex, SciPy, BeautifulSoup, Git, GitHub, Excel, PowerPoint***
-- **Familiar Tools:**
-    - ***XGBoost, LightGBM, Streamlit, Flask, FastAPI, Docker, OpenCV, Plotly, bokeh, Selenium***
-
-* **
-
-## **Work Experience**
-[**Culinda Inc.,**](https://www.linkedin.com/company/culinda/) | Data Science Intern [*Certificate*](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view) | (Aug 2022 – Jan 2023)
-
-**Skills: Python, CyberSecurity, Statistics, Data Analysis, Machine Learning, IoT/IoMT**
-- Created a POC using Python on Cyber risk quantification using FAIR, STRIDE Model for quantifying
-cyber risk to IoMT/IoT devices.
-- Wrote Python scripts that analyzed Terabytes of data to generate (text & excel) reports that checked if the data flow in
-the pipeline is happening as expected. (Data Validator Tool)
-- Worked in Baselining for hospitals' network data to identify any malicious behavior.
-
 * **
 
 ## **Projects**
+
+### **Machine Learning** 
+
+- **Business License Status Prediction** | [GitHub](https://github.com/avr2002/Business-License-Status-Prediction)
+  - **Technologies Used: Python, scikit-learn, h2o, tensorflow, flask, gunicorn**
+  - The project aims to predict if a customer's license should be issued, renewed, or cancelled depending on features in the dataset. The problem statement was presented at [ZS Data Science Challenge - 2019](https://www.interviewbit.com/contest/zs-yds-2019/).
+ 
+* **
 
 ### **NLP Projects**
 - **Topic Modeling Using RACE Dataset** | [GitHub](https://github.com/avr2002/Topic-Modelling-Using-RACE-Dataset)
@@ -53,30 +40,22 @@ the pipeline is happening as expected. (Data Validator Tool)
 
 * **
 
-### **Machine Learning & Python Projects** 
+### **Python Projects** 
 
 - **Business License Status Prediction** | [GitHub](https://github.com/avr2002/Business-License-Status-Prediction)
   - **Technologies Used: Python, scikit-learn, h2o, tensorflow, flask, gunicorn**
   - The project aims to predict if a customer's license should be issued, renewed, or cancelled depending on features in the dataset. The problem statement was presented at [ZS Data Science Challenge - 2019](https://www.interviewbit.com/contest/zs-yds-2019/).
-
 
 - **Medical Data Extraction Project** | [Github](https://github.com/avr2002/medical-data-extraction-project)
   - **Technologies Used: Python, Regex, OpenCV, Pytesseract, FastAPI**
   - Python backend was built using pytesseract, OpenCV, Regular expressions and FastAPI as a web serving framework
   - Auto extracted important fields from patient details and medical prescriptions. Image processing was performed in OpenCV and then pytesseract was used for image to text conversion. The last step was to use Regular Expression (Regex) for extracting important fields from the text
 
-
 - **SQL Project: Provide Insights to Management in Consumer Goods Domain**
     - [Project Github Link](https://github.com/avr2002/sql-project-consumer-goods-domain) & [Certificate of Participation](https://drive.google.com/file/d/1QdbMXJoyvD8SASKbZYQelT-uQamhiEQ4/view?usp=share_link)
-    
+
 
 - **Credit Card Default Prediction** | [Github](https://github.com/avr2002/credit-card-default-prediction)
 - **Regression Models for House Price Prediction** | [GitHub](https://github.com/avr2002/Regression-Models-for-House-Price-Prediction)
-- **Kaggle House Price Prediction** | [Link](https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project)
 
 * **
-
-## **Education**
-- BS in Data Science & Application[(CGPA: 8.5 till Sem-5)](https://drive.google.com/file/d/1AEtZR7kj7uhw4p4Xq9BDKpFhwYRyrR4Q/view?usp=sharing) | [IIT Madras](https://study.iitm.ac.in/ds/) | 2021-2025(Expected)
-
-- 12th Std. CBSE Board(Percentage: 86.8%) | Star International School, Ranchi, JH | 2018-2020 
