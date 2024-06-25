@@ -1,5 +1,5 @@
 ## **Machine Learning Projects** 
-
+🎰💡
 ### **Vehicle Insurance Cross-Sell Prediction** | [GitHub](https://github.com/)
   - **Technologies Used: scikit-learn**
   - Executed data preprocessing, exploratory data analysis, feature selection, and hyperparameter tuning.
@@ -18,12 +18,12 @@
 * **
 
 ## **NLP Projects**
-
-### **Topic Modeling Using RACE Dataset** | [GitHub](https://github.com/)
+🔉💡
+<!-- ### **Topic Modeling Using RACE Dataset** | [GitHub](https://github.com/)
   - **Technologies Used:**  Python, Regex, NLTK, Gensim, ScikitLearn, tSNE, pyLDAvis, bokeh, Git
   - This **NLP Project** aims to use statistical models to reveal the abstract “topics” present in a large set of text documents, thus trying to classify documents based on different themes they convey.
   - Three **Topic Modeling algorithms** were used namely, **Latent Semantic Analysis(LSA), Latent Dirichlet Allocation(LDA), and Non-Negative Matrix Factorization(NMF)**.
-  - **BERTopic** & **Top2Vec** were also explored which gave quite good results.
+  - **BERTopic** & **Top2Vec** were also explored which gave quite good results. -->
 
 ### **Medical Embeddings and Clinical Trial Search Engine** | [Github](https://github.com/)
   - **Technologies Used: Python, Gensim, Word2Vec, FastText, Streamlit, Git**
@@ -33,8 +33,8 @@
 * **
 
 ## **Computer Vision Projects**
-
-### **Image Coloring using Autoencoders** | [Github](https://github.com/)
+🖥️🤖
+<!-- ### **Image Coloring using Autoencoders** | [Github](https://github.com/)
   - **Technologies Used:** Python, TensorFlow, Keras, scikit-image, matplotlib, numpy
   -  I tried using Autoencoders and Transfer Learning for this one. I tried VGG16 and InceptionResNetV2 as an encoder/feature extractor layer and a custom decoder layer.
 
@@ -42,19 +42,19 @@
 ### **Muti-class Image Classification Model** | [Github](https://github.com/)
   - **Technologies Used: Python, tensorflow, keras, matplotlib, flask, gunicorn, pathlib, numpy**
   - The project aims to classify images into driving license, social security, and others category by using a CNN model architecture.
-    - An accuracy of 96% was achieved on test data of 150 images. Deployment was done using gunicorn and flask API.
+    - An accuracy of 96% was achieved on test data of 150 images. Deployment was done using gunicorn and flask API. -->
 
 
 * **
 
 ## **Python Projects** 
-
+⭐💡
 ### **Medical Data Extraction Project** | [Github]()
   - **Technologies Used: Python, Regex, OpenCV, Pytesseract, FastAPI**
   - Python backend was built using pytesseract, OpenCV, Regular expressions and FastAPI as a web serving framework
   - Auto extracted important fields from patient details and medical prescriptions. Image processing was performed in OpenCV and then pytesseract was used for image to text conversion. The last step was to use Regular Expression (Regex) for extracting important fields from the text
 
-<!-- ### **SQL Project: Provide Insights to Management in Consumer Goods Domain**
+<!-- ### **SQL Project: **
   - [Project Github Link]() -->
 
 
