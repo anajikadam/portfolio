@@ -1,5 +1,4 @@
-## **Machine Learning Projects** 
-🎰💡
+## **Machine Learning Projects** 🎰💡
 ### **Vehicle Insurance Cross-Sell Prediction** | [GitHub](https://github.com/)
   - **Technologies Used: scikit-learn**
   - Executed data preprocessing, exploratory data analysis, feature selection, and hyperparameter tuning.
@@ -17,8 +16,7 @@
 
 * **
 
-## **NLP Projects**
-🔉💡
+## **NLP Projects** 🔉💡
 <!-- ### **Topic Modeling Using RACE Dataset** | [GitHub](https://github.com/)
   - **Technologies Used:**  Python, Regex, NLTK, Gensim, ScikitLearn, tSNE, pyLDAvis, bokeh, Git
   - This **NLP Project** aims to use statistical models to reveal the abstract “topics” present in a large set of text documents, thus trying to classify documents based on different themes they convey.
@@ -32,8 +30,7 @@
 
 * **
 
-## **Computer Vision Projects**
-🖥️🤖
+## **Computer Vision Projects** 🖥️🤖
 <!-- ### **Image Coloring using Autoencoders** | [Github](https://github.com/)
   - **Technologies Used:** Python, TensorFlow, Keras, scikit-image, matplotlib, numpy
   -  I tried using Autoencoders and Transfer Learning for this one. I tried VGG16 and InceptionResNetV2 as an encoder/feature extractor layer and a custom decoder layer.
@@ -47,8 +44,7 @@
 
 * **
 
-## **Python Projects** 
-⭐💡
+## **Python Projects** ⭐💡
 ### **Medical Data Extraction Project** | [Github]()
   - **Technologies Used: Python, Regex, OpenCV, Pytesseract, FastAPI**
   - Python backend was built using pytesseract, OpenCV, Regular expressions and FastAPI as a web serving framework
